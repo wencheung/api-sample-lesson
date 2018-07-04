@@ -2,10 +2,6 @@
 
 The goal is to code out a gif-finder that takes in a user's keyword and sends you back the gifs that meet that criteria.
 
-## Warm up!
-
-The page has a button on it already. Code out an event listener in the script.js file that logs "button pressed!" to the console when the button is pressed, and confirm that it is working.
-
 ## Get an API key
 
 1. Go to [https://developers.giphy.com/](https://developers.giphy.com/).
