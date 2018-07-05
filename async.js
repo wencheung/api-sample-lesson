@@ -12,7 +12,7 @@ btn.addEventListener("click", e => {
 // Go to https://developers.giphy.com/ and create an account. Then create your first app called testApp to create an API key. Enter it below.
 
 function sendApiRequest() {
-  let response = fetch("https://api.giphy.com/v1/gifs/search?api_key=YOUR_API_KEY&q=panda&limit=25&offset=0&rating=G&lang=en");
+  let response = fetch("https://api.giphy.com/v1/gifs/search?api_key=YOUR_API_KEY&q=Pandas&limit=25&offset=0&rating=G&lang=en");
   console.log(response);
 };
 
